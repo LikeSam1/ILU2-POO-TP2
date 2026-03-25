@@ -10,6 +10,6 @@ public class BoundaryAcheterProduit {
 	}
 
 	public void acheterProduit(String nomAcheteur) {
-		// TODO à completer
+		controlAcheterProduit
 	}
 }
