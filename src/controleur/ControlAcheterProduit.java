@@ -27,4 +27,12 @@ public class ControlAcheterProduit {
 		}
 		return -1;		
 	}
+	
+	public String[] donnerEtatMarcheDonnees() {
+		return village.donnerEtatMarche();
+	}
+	
+	public int donnerNbEtalDonnees() {
+		return village.donnerNbEtal();
+	}
 }
